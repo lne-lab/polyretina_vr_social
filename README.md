@@ -11,7 +11,7 @@ This project simulates the artificial vision provided by a POLYRETINA epi-retina
    - Downloading the latest release
    
    Downloading the zipped files or forking the repository will give you the whole Unity project which can then be opened using Unity. Downloading the latest release will give you a Unity Package file which can be imported into an existing Unity project.
-3. After opening/importing the project, there will be potentially be some warning/error messages. You can ignore them by clicking clear in the console window. They will not appear again.
+3. After opening/importing the project, there will potentially be some warning/error messages. You can ignore them by clicking clear in the console window. They will not appear again.
 
 ### Viewing the simulation in the Vive Pro Eye
 
